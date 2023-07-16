@@ -1,7 +1,32 @@
-.the-thao {
-color:  red;
 
+
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    min-height: 70vh;
+    width: 100%;
 }
-h2:hover {
-color: rgb(26, 252, 177);
+h4{
+background-color: orangered;
+    color: white;
+ padding: 3px;
+ font-size: 15px;
+display: flex;
+justify-content: center;
 }
+.po{
+    color: orangered;
+}
+.xanhbien{
+    color:blue
+}
+.form-value{
+
+    border-style: solid ;
+  border-width: 15px;
+  border-color:rgb(216, 241, 241)
+}
+
+
+
